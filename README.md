@@ -20,3 +20,12 @@ Ensure you have the following installed:
 Install dependencies using:  
 ```sh
 pip install requests beautifulsoup4
+#To run the file#
+python webscrap.py
+```
+Notes
+This scraper respects website limitations and should not be used for excessive requests.
+Ensure compliance with Drugs.com terms of use.
+License
+This project is for educational purposes. No warranties or guarantees are provided.
+
